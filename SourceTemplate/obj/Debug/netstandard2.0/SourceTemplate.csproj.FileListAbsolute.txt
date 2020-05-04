@@ -1,0 +1,6 @@
+C:\Users\dream\source\repos\SourceTemplate\SourceTemplate\bin\Debug\netstandard2.0\SourceTemplate.deps.json
+C:\Users\dream\source\repos\SourceTemplate\SourceTemplate\bin\Debug\netstandard2.0\SourceTemplate.dll
+C:\Users\dream\source\repos\SourceTemplate\SourceTemplate\obj\Debug\netstandard2.0\SourceTemplate.csprojAssemblyReference.cache
+C:\Users\dream\source\repos\SourceTemplate\SourceTemplate\obj\Debug\netstandard2.0\SourceTemplate.csproj.CoreCompileInputs.cache
+C:\Users\dream\source\repos\SourceTemplate\SourceTemplate\obj\Debug\netstandard2.0\SourceTemplate.AssemblyInfoInputs.cache
+C:\Users\dream\source\repos\SourceTemplate\SourceTemplate\obj\Debug\netstandard2.0\SourceTemplate.AssemblyInfo.cs
